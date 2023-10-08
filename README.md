@@ -1,27 +1,3 @@
-<!--
-**OksanaAstashkina/OksanaAstashkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AQvpN2a4dRaubdxP7L/giphy.gif" width="150"/>
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"/>
-</div>
-https://media.giphy.com/media/JAh69JIMvVAvdOQSOS/giphy.gif
-https://media.giphy.com/media/1UU8LT7EL7pIUOlntQ/giphy.gif
-https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxaWJpaGV0ZW5qMnk0aHp6b25sMjJkcjAwdHc1dWIwczVybDhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
@@ -33,20 +9,15 @@ https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 
 ---
 ### :woman_technologist: About Me :
+- 💼 I am looking for in-office work as a Python developer.
 - 🔭 I’m currently working on expanding my knowledge and experience in python development and my soft skills.
-- 🌱 I’m currently learning ...
 - 👯 I am ready to cooperate with team that need a beginner Python developer with an active position.
-- 💼 I am looking for a job as a python developer in an office.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 Currently, I continue to study Python, frameworks and libraries for backend development and other web programming tools.
+- 💬 My credo: Nothing is impossible, it's all about motivation!
 - 📫 How to reach me: <a href="https://t.me/AstashkinaOksana"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1803FC?logo=telegram&logoColor=fcfcfc"></a> <a href="mailto:astashkinaov@yandex.ru"><img alt="E-mail" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=FFF"></a> 
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her of course )))
 - ⚡ Fun fact: As a student, I won the university contest "Miss Academy".
 
-  💼 Сейчас ищу постоянную работу в офисе.
-👯 Готова сотрудничать с командами, которым требуется Python-разработчик.
-🔭 Работаю над более глубоким изучением Python и созданием проектов.
-🌱 Исследую библиотеки и фреймворки Python, а также новые инструменты.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
