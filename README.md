@@ -27,7 +27,7 @@ https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 <h1 align="center">
 	<font color="red" size="4">Hello! I'm Oksana</font>
 </h1>
-<h3 align="center"> ✨ Beginner Python developer with an technical and economic higher education from Russia ✨</h3>
+<h3 align="center"> ✨ Beginner Python developer with an technical and economic higher education from Russia 🇷🇺 ✨</h3>
 </div>
 
 <br>
