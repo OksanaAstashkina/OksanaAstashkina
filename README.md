@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 - 💼 I am looking for in-office work as a Python developer.
 - 🔭 I’m currently working on expanding my knowledge and experience in python development and my soft skills.
-- 👯 I am ready to cooperate with team that need a beginner Python developer with an active position.
+- 👯 I am ready to cooperate with team that need a beginner developer with an active position.
 - 🌱 Currently, I continue to study Python, frameworks and libraries for backend development and other web programming tools.
 - 💬 My credo: Nothing is impossible, it's all about motivation!
 - 📫 How to reach me: <a href="https://t.me/AstashkinaOksana"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1803FC?logo=telegram&logoColor=fcfcfc"></a> <a href="mailto:astashkinaov@yandex.ru"><img alt="E-mail" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=FFF"></a> 
