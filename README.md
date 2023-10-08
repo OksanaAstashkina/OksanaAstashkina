@@ -56,8 +56,8 @@ https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-FFF?logo=githubactions&logoColor=FFF&labelColor=2088FF" height="25px"></a>
 <a href="https://code.visualstudio.com"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-FFF?logo=visualstudiocode&logoColor=FFF&labelColor=007ACC" height="25px"></a>
 <a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/Postman-FFF?logo=postman&logoColor=FFF&labelColor=FF6C37" height="25px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML5-FFF?logo=html5&logoColor=FFF&labelColor=E34F26" height="25px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS3-FFF?logo=css3&logoColor=FFF&labelColor=1572B6" height="25px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-FFF?logo=html5&logoColor=FFF&labelColor=E34F26" height="25px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-FFF?logo=css3&logoColor=FFF&labelColor=1572B6" height="25px"></a>
 </div>
 
 <br>
