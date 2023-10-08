@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AQvpN2a4dRaubdxP7L/giphy.gif" width="150"/>
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"/>
+</div>
 https://media.giphy.com/media/JAh69JIMvVAvdOQSOS/giphy.gif
 https://media.giphy.com/media/1UU8LT7EL7pIUOlntQ/giphy.gif
 https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxaWJpaGV0ZW5qMnk0aHp6b25sMjJkcjAwdHc1dWIwczVybDhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxaWJpaGV0ZW5qMnk0aHp6b25sMjJkcjAwdHc1dWIwczVybDhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
 </div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="200"/>
-</div>
-<h1 align="center"> I'm Oksana </h1>
+<h1 align="center"> Hello! I'm Oksana </h1>
 <h3 align="center"> ✨ Beginner Python developer with an technical and economic higher education from Russia ✨</h3>
 </div>
+
+<br>
 
 ---
 ### :woman_technologist: About Me :
