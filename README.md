@@ -33,15 +33,20 @@ https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 
 ---
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on expanding my knowledge and experience in python development and my soft skills.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I am ready to cooperate with team that need a beginner Python developer with an active position.
 - 💼 I am looking for a job as a python developer in an office.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: <a href="https://t.me/AstashkinaOksana"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1803FC?logo=telegram&logoColor=fcfcfc"></a> <a href="mailto:astashkinaov@yandex.ru"><img alt="E-mail" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=FFF"></a> 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: As a student, I won the university contest "Miss Academy".
+
+  💼 Сейчас ищу постоянную работу в офисе.
+👯 Готова сотрудничать с командами, которым требуется Python-разработчик.
+🔭 Работаю над более глубоким изучением Python и созданием проектов.
+🌱 Исследую библиотеки и фреймворки Python, а также новые инструменты.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
