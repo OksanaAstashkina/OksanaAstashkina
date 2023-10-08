@@ -21,13 +21,12 @@ https://media.giphy.com/media/JAh69JIMvVAvdOQSOS/giphy.gif
 https://media.giphy.com/media/1UU8LT7EL7pIUOlntQ/giphy.gif
 https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxaWJpaGV0ZW5qMnk0aHp6b25sMjJkcjAwdHc1dWIwczVybDhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
-<h1 align="center">
-	<font color="red" size="4">Hello! I'm Oksana</font>
-</h1>
-<h3 align="center"> ✨ Beginner Python developer with an technical and economic higher education from Russia ✨</h3>
+<h1 align="center"> Hello! I'm Oksana </h1>
+<h3 align="center"> ✨ Beginner Python developer with an technical and economic higher education from Russia <img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" /> ✨</h3>
 </div>
 
 <br>
@@ -39,7 +38,7 @@ https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://t.me/AstashkinaOksana"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=FFF"></a><a href="mailto:astashkinaov@yandex.ru"><img alt="E-mail" src="https://img.shields.io/badge/Email-1803FC?logo=gmail&logoColor=fcfcfc"></a> 
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -63,4 +62,3 @@ https://media.giphy.com/media/WprZBWsxmxFtJbIdaF/giphy.gif
 </div>
 
 <br>
-
