@@ -15,7 +15,7 @@
 - 🌱 Currently, I continue to study Python, frameworks and libraries for backend development and other web programming tools.
 - 💬 My credo: Nothing is impossible, it's all about motivation!
 - 📫 How to reach me: <a href="https://t.me/AstashkinaOksana"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1803FC?logo=telegram&logoColor=fcfcfc"></a> <a href="mailto:astashkinaov@yandex.ru"><img alt="E-mail" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=FFF"></a> 
-- 😄 Pronouns: she/her of course )))
+- 😄 Pronouns: she/her, of course )))
 - ⚡ Fun fact: As a student, I won an university contest "Miss Academy".
 
 
