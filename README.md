@@ -9,7 +9,7 @@
 
 ---
 ### :woman_technologist: About Me :
-- 💼 I am looking for in-office work as a Python developer.
+- 💼 I am looking for in-office job as a Python developer.
 - 🔭 I’m currently working on expanding my knowledge and experience in python development and my soft skills.
 - 👯 I am ready to cooperate with team that need a beginner developer with an active position.
 - 🌱 Currently, I continue to study Python, frameworks and libraries for backend development and other web programming tools.
