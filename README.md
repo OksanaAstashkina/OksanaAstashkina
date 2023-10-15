@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://korden.org/uploads/publications/novgorod/p27752_HfDeN0.png" width="250"/>
+  <img src="https://i.ytimg.com/vi/J0Vc-1awK4A/mqdefault.jpg" width="300"/>
 </div>
 <h1 align="center"> Hello! I'm Oksana </h1>
 <h3 align="center"> ✨ Beginner Python developer with a technical and economic higher education from Russia <img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" /> ✨</h3>
