@@ -1,5 +1,6 @@
+# https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxaWJpaGV0ZW5qMnk0aHp6b25sMjJkcjAwdHc1dWIwczVybDhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxaWJpaGV0ZW5qMnk0aHp6b25sMjJkcjAwdHc1dWIwczVybDhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
+  <img src="https://korden.org/uploads/publications/novgorod/p27752_HfDeN0.png" width="250"/>
 </div>
 <h1 align="center"> Hello! I'm Oksana </h1>
 <h3 align="center"> ✨ Beginner Python developer with a technical and economic higher education from Russia <img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" /> ✨</h3>
